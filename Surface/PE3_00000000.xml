@@ -1,0 +1,4760 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>3h Precipitation</VAR>
+<UNIT>mm/3h</UNIT>
+<PERIOD>20210201-20210228</PERIOD>
+ <STATION>
+ <MEAN_OBS>  0.100692414     </MEAN_OBS>
+ <STDV_OBS>  0.331922948     </STDV_OBS>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3611 </NUM>
+ <MEAN>   9.06720981E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.422244489     </BIAS>
+ <RMSE>  0.481406718     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3611 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.422547936     </BIAS>
+ <RMSE>  0.481408477     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.346431136     </MEAN_OBS>
+ <STDV_OBS>   1.10120904     </STDV_OBS>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3377 </NUM>
+ <MEAN>  0.620746970     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.895817518     </BIAS>
+ <RMSE>  0.687778056     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3377 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.795806110     </BIAS>
+ <RMSE>  0.696972013     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.140792653     </MEAN_OBS>
+ <STDV_OBS>  0.358222365     </STDV_OBS>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3356 </NUM>
+ <MEAN>  0.156573966     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.234420300     </BIAS>
+ <RMSE>  0.799089313     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3356 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.237820655     </BIAS>
+ <RMSE>  0.790286899     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.160301670     </MEAN_OBS>
+ <STDV_OBS>  0.452567995     </STDV_OBS>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3315 </NUM>
+ <MEAN>  0.160927892     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.372070968     </BIAS>
+ <RMSE>  0.782813549     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3315 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.375603795     </BIAS>
+ <RMSE>  0.778064728     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.140510991     </MEAN_OBS>
+ <STDV_OBS>  0.423875302     </STDV_OBS>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3288 </NUM>
+ <MEAN>  0.141109601     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.268787891     </BIAS>
+ <RMSE>  0.827596486     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3288 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.267626524     </BIAS>
+ <RMSE>  0.828559399     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.47997022     </MEAN_OBS>
+ <STDV_OBS>  0.850170672     </STDV_OBS>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         674 </NUM>
+ <MEAN>  0.630983531     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.873218179     </BIAS>
+ <RMSE>  0.640901387     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         674 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.868485510     </BIAS>
+ <RMSE>  0.645200968     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.00718319     </MEAN_OBS>
+ <STDV_OBS>  0.900172830     </STDV_OBS>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         724 </NUM>
+ <MEAN>  0.676123023     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.776715994     </BIAS>
+ <RMSE>  0.638291776     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         724 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.776493967     </BIAS>
+ <RMSE>  0.634840131     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.206064835     </MEAN_OBS>
+ <STDV_OBS>  0.454936624     </STDV_OBS>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3380 </NUM>
+ <MEAN>  0.160143495     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.331819654     </BIAS>
+ <RMSE>  0.867989779     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3380 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.331886441     </BIAS>
+ <RMSE>  0.870500505     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.107639760     </MEAN_OBS>
+ <STDV_OBS>  0.812090874     </STDV_OBS>
+ <EXP>
+ <ID>        2207 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3364 </NUM>
+ <MEAN>  0.309051871     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.753484249     </BIAS>
+ <RMSE>  0.500889122     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2207 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3364 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.704073071     </BIAS>
+ <RMSE>  0.502861142     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.142640471     </MEAN_OBS>
+ <STDV_OBS>  0.600199461     </STDV_OBS>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3288 </NUM>
+ <MEAN>  0.232924893     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.521549761     </BIAS>
+ <RMSE>  0.426929355     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3288 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.551641107     </BIAS>
+ <RMSE>  0.455257237     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.42979874E-02 </MEAN_OBS>
+ <STDV_OBS>  0.307505876     </STDV_OBS>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3490 </NUM>
+ <MEAN>   8.34706128E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.205661833     </BIAS>
+ <RMSE>  0.754658997     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3490 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.207177386     </BIAS>
+ <RMSE>  0.752712846     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.71512882E-02 </MEAN_OBS>
+ <STDV_OBS>  0.316401660     </STDV_OBS>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3370 </NUM>
+ <MEAN>  0.100948468     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.295979410     </BIAS>
+ <RMSE>  0.445677578     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3370 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.278985977     </BIAS>
+ <RMSE>  0.479931355     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.226281762     </MEAN_OBS>
+ <STDV_OBS>  0.467229247     </STDV_OBS>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3276 </NUM>
+ <MEAN>  0.173890039     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.444444120     </BIAS>
+ <RMSE>  0.707058966     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3276 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.445930600     </BIAS>
+ <RMSE>  0.704194188     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.218269646     </MEAN_OBS>
+ <STDV_OBS>  0.558512568     </STDV_OBS>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3421 </NUM>
+ <MEAN>  0.200430080     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.339328825     </BIAS>
+ <RMSE>  0.831338584     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3421 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.337665856     </BIAS>
+ <RMSE>  0.833417594     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.63187082E-02 </MEAN_OBS>
+ <STDV_OBS>  0.154221296     </STDV_OBS>
+ <EXP>
+ <ID>        2308 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3439 </NUM>
+ <MEAN>   4.67780270E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.185851336     </BIAS>
+ <RMSE>  0.346275538     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2308 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3439 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.187847391     </BIAS>
+ <RMSE>  0.344819784     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.95077022E-02 </MEAN_OBS>
+ <STDV_OBS>  0.155250430     </STDV_OBS>
+ <EXP>
+ <ID>        2327 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3433 </NUM>
+ <MEAN>   4.27170433E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.170989349     </BIAS>
+ <RMSE>  0.450513572     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2327 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3433 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.160375223     </BIAS>
+ <RMSE>  0.440968961     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.82000890E-02 </MEAN_OBS>
+ <STDV_OBS>  0.524745405     </STDV_OBS>
+ <EXP>
+ <ID>        2355 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3478 </NUM>
+ <MEAN>  0.171630010     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.564297616     </BIAS>
+ <RMSE>  0.387380511     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2355 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3478 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.481357664     </BIAS>
+ <RMSE>  0.404673010     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.18545157E-02 </MEAN_OBS>
+ <STDV_OBS>  0.176782012     </STDV_OBS>
+ <EXP>
+ <ID>        2407 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3505 </NUM>
+ <MEAN>   6.40226305E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.122960106     </BIAS>
+ <RMSE>  0.723765910     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2407 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3505 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.121877909     </BIAS>
+ <RMSE>  0.736248553     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.98744717E-02 </MEAN_OBS>
+ <STDV_OBS>  0.210836366     </STDV_OBS>
+ <EXP>
+ <ID>        2440 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3506 </NUM>
+ <MEAN>   7.59199187E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.191485509     </BIAS>
+ <RMSE>  0.553441226     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2440 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3506 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.178388417     </BIAS>
+ <RMSE>  0.550797820     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.15285027E-02 </MEAN_OBS>
+ <STDV_OBS>  0.173322052     </STDV_OBS>
+ <EXP>
+ <ID>        2452 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3546 </NUM>
+ <MEAN>   6.83449134E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.231715545     </BIAS>
+ <RMSE>  0.273117423     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2452 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3546 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.225857779     </BIAS>
+ <RMSE>  0.282801211     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.191326305     </MEAN_OBS>
+ <STDV_OBS>  0.588025630     </STDV_OBS>
+ <EXP>
+ <ID>        2456 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3355 </NUM>
+ <MEAN>  0.192709729     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.525898635     </BIAS>
+ <RMSE>  0.454871416     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2456 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3355 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.547934115     </BIAS>
+ <RMSE>  0.487632245     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.72605100E-02 </MEAN_OBS>
+ <STDV_OBS>  0.228688136     </STDV_OBS>
+ <EXP>
+ <ID>        2469 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3446 </NUM>
+ <MEAN>   6.20956793E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.273815602     </BIAS>
+ <RMSE>  0.648271203     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2469 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3446 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.200642318     </BIAS>
+ <RMSE>  0.567885756     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.10119603E-03 </MEAN_OBS>
+ <STDV_OBS>  0.355486244     </STDV_OBS>
+ <EXP>
+ <ID>        2498 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3518 </NUM>
+ <MEAN>  0.109913580     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.339206338     </BIAS>
+ <RMSE>  0.290890485     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2498 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3518 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.341037065     </BIAS>
+ <RMSE>  0.308743566     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.402369469     </MEAN_OBS>
+ <STDV_OBS>  0.713564217     </STDV_OBS>
+ <EXP>
+ <ID>        2520 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>  0.635182142     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.720163465     </BIAS>
+ <RMSE>  0.361189395     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2520 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.714298666     </BIAS>
+ <RMSE>  0.302667171     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.217741966     </MEAN_OBS>
+ <STDV_OBS>  0.241657048     </STDV_OBS>
+ <EXP>
+ <ID>        2562 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>          62 </NUM>
+ <MEAN>  0.169543594     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.200230002     </BIAS>
+ <RMSE>  0.615269601     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2562 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>          62 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.200893551     </BIAS>
+ <RMSE>  0.629419923     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.166099474     </MEAN_OBS>
+ <STDV_OBS>  0.352475166     </STDV_OBS>
+ <EXP>
+ <ID>        2563 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3466 </NUM>
+ <MEAN>   8.83977041E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.474374384     </BIAS>
+ <RMSE>  0.651169658     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2563 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3466 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.484570295     </BIAS>
+ <RMSE>  0.635145903     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.11259238E-02 </MEAN_OBS>
+ <STDV_OBS>  0.213105246     </STDV_OBS>
+ <EXP>
+ <ID>        2565 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3517 </NUM>
+ <MEAN>   5.92560247E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.173486158     </BIAS>
+ <RMSE>  0.450937361     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2565 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3517 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.190939799     </BIAS>
+ <RMSE>  0.444649577     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.70784020E-02 </MEAN_OBS>
+ <STDV_OBS>  0.360723644     </STDV_OBS>
+ <EXP>
+ <ID>        2589 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3368 </NUM>
+ <MEAN>   9.91227999E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.330978602     </BIAS>
+ <RMSE>  0.310749799     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2589 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3368 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.366068691     </BIAS>
+ <RMSE>  0.346184731     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.384183824     </MEAN_OBS>
+ <STDV_OBS>  0.469003648     </STDV_OBS>
+ <EXP>
+ <ID>        2590 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         196 </NUM>
+ <MEAN>  0.261818945     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.591516256     </BIAS>
+ <RMSE>  0.271221071     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2590 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         196 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.468278736     </BIAS>
+ <RMSE>  0.385577589     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.25450537E-02 </MEAN_OBS>
+ <STDV_OBS>  0.402372748     </STDV_OBS>
+ <EXP>
+ <ID>        2618 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3607 </NUM>
+ <MEAN>  0.101143822     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.171979696     </BIAS>
+ <RMSE>  0.908324122     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2618 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3607 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.169922128     </BIAS>
+ <RMSE>  0.910026133     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.894909382     </MEAN_OBS>
+ <STDV_OBS>  0.929545701     </STDV_OBS>
+ <EXP>
+ <ID>        2664 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         275 </NUM>
+ <MEAN>  0.646456599     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.942906499     </BIAS>
+ <RMSE>  0.839841008     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2664 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         275 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.917143106     </BIAS>
+ <RMSE>  0.852415621     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.06252125E-02 </MEAN_OBS>
+ <STDV_OBS>  0.214307979     </STDV_OBS>
+ <EXP>
+ <ID>        2679 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3439 </NUM>
+ <MEAN>   4.37319875E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.216343135     </BIAS>
+ <RMSE>  0.587395012     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2679 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3439 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.219625011     </BIAS>
+ <RMSE>  0.562793016     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.95496681E-02 </MEAN_OBS>
+ <STDV_OBS>  0.298804551     </STDV_OBS>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3330 </NUM>
+ <MEAN>  0.127169251     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.228501365     </BIAS>
+ <RMSE>  0.696670771     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3330 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.230719462     </BIAS>
+ <RMSE>  0.691565037     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.205625877     </MEAN_OBS>
+ <STDV_OBS>  0.399511009     </STDV_OBS>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3217 </NUM>
+ <MEAN>  0.165462136     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.366857022     </BIAS>
+ <RMSE>  0.765846670     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3217 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.367886722     </BIAS>
+ <RMSE>  0.764638484     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.31279719     </MEAN_OBS>
+ <STDV_OBS>  0.881177068     </STDV_OBS>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         969 </NUM>
+ <MEAN>  0.502465427     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.921248734     </BIAS>
+ <RMSE>  0.666395366     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         969 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.917569995     </BIAS>
+ <RMSE>  0.669448197     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.118234299     </MEAN_OBS>
+ <STDV_OBS>  0.367853343     </STDV_OBS>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3477 </NUM>
+ <MEAN>  0.133685619     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.202342093     </BIAS>
+ <RMSE>  0.857616723     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3477 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.201004878     </BIAS>
+ <RMSE>  0.857432246     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.26439282E-02 </MEAN_OBS>
+ <STDV_OBS>  0.530209720     </STDV_OBS>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3491 </NUM>
+ <MEAN>  0.172664925     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.355661243     </BIAS>
+ <RMSE>  0.808596015     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3491 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.352698267     </BIAS>
+ <RMSE>  0.806258082     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.160179883     </MEAN_OBS>
+ <STDV_OBS>  0.623507380     </STDV_OBS>
+ <EXP>
+ <ID>        2221 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3227 </NUM>
+ <MEAN>  0.273346663     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.491320819     </BIAS>
+ <RMSE>  0.604869187     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2221 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.511525393     </BIAS>
+ <RMSE>  0.587040126     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.118799843     </MEAN_OBS>
+ <STDV_OBS>  0.383763194     </STDV_OBS>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3516 </NUM>
+ <MEAN>  0.124497309     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.268701881     </BIAS>
+ <RMSE>  0.815186799     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3516 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.266818494     </BIAS>
+ <RMSE>  0.818028867     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.53025764E-02 </MEAN_OBS>
+ <STDV_OBS>  0.390734136     </STDV_OBS>
+ <EXP>
+ <ID>        2247 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3504 </NUM>
+ <MEAN>   9.89720747E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.278905004     </BIAS>
+ <RMSE>  0.747986495     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2247 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3504 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.277800322     </BIAS>
+ <RMSE>  0.749425054     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.92093288E-02 </MEAN_OBS>
+ <STDV_OBS>  0.181862578     </STDV_OBS>
+ <EXP>
+ <ID>        2338 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3516 </NUM>
+ <MEAN>   4.33306620E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.156093076     </BIAS>
+ <RMSE>  0.603887737     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2338 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3516 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.157933936     </BIAS>
+ <RMSE>  0.601092339     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.113776848     </MEAN_OBS>
+ <STDV_OBS>  0.300049275     </STDV_OBS>
+ <EXP>
+ <ID>        2408 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3397 </NUM>
+ <MEAN>  0.107742697     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.269769847     </BIAS>
+ <RMSE>  0.652111650     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2408 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3397 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.267553806     </BIAS>
+ <RMSE>  0.654292285     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.32984547E-02 </MEAN_OBS>
+ <STDV_OBS>  0.211259872     </STDV_OBS>
+ <EXP>
+ <ID>        2431 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3244 </NUM>
+ <MEAN>   8.74375552E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.160117179     </BIAS>
+ <RMSE>  0.688971698     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2431 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3244 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.155470699     </BIAS>
+ <RMSE>  0.688711882     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.14590678E-02 </MEAN_OBS>
+ <STDV_OBS>  0.418330789     </STDV_OBS>
+ <EXP>
+ <ID>        2453 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3468 </NUM>
+ <MEAN>  0.150636166     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.376597375     </BIAS>
+ <RMSE>  0.515850961     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2453 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3468 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.360863596     </BIAS>
+ <RMSE>  0.511880457     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.469296753     </MEAN_OBS>
+ <STDV_OBS>  0.431129426     </STDV_OBS>
+ <EXP>
+ <ID>        2458 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         469 </NUM>
+ <MEAN>  0.309039116     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.484144062     </BIAS>
+ <RMSE>  0.432354569     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2458 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         469 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.449541777     </BIAS>
+ <RMSE>  0.476375550     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.14549284E-02 </MEAN_OBS>
+ <STDV_OBS>  0.125611261     </STDV_OBS>
+ <EXP>
+ <ID>        2476 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3519 </NUM>
+ <MEAN>   3.75217386E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.113669366     </BIAS>
+ <RMSE>  0.552784681     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2476 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3519 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.112512954     </BIAS>
+ <RMSE>  0.552969337     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.124681540     </MEAN_OBS>
+ <STDV_OBS>  0.426852643     </STDV_OBS>
+ <EXP>
+ <ID>        2488 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3375 </NUM>
+ <MEAN>  0.152302563     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.402855992     </BIAS>
+ <RMSE>  0.499866396     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2488 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3375 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.407112837     </BIAS>
+ <RMSE>  0.507250667     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.87979986E-02 </MEAN_OBS>
+ <STDV_OBS>  0.479444563     </STDV_OBS>
+ <EXP>
+ <ID>        2505 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3494 </NUM>
+ <MEAN>  0.156735078     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.394616783     </BIAS>
+ <RMSE>  0.606462538     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2505 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3494 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.395274967     </BIAS>
+ <RMSE>  0.590019822     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.53949066E-02 </MEAN_OBS>
+ <STDV_OBS>  0.310880005     </STDV_OBS>
+ <EXP>
+ <ID>        2536 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3457 </NUM>
+ <MEAN>   9.28111970E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.185277343     </BIAS>
+ <RMSE>  0.802182794     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2536 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3457 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.186868638     </BIAS>
+ <RMSE>  0.801880121     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.67628878E-02 </MEAN_OBS>
+ <STDV_OBS>  0.403179497     </STDV_OBS>
+ <EXP>
+ <ID>        2567 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3602 </NUM>
+ <MEAN>   7.98593834E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.266045988     </BIAS>
+ <RMSE>  0.369643450     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2567 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3602 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.383157015     </BIAS>
+ <RMSE>  0.312645078     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.17330828E-02 </MEAN_OBS>
+ <STDV_OBS>   7.82578439E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2574 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3589 </NUM>
+ <MEAN>   2.15071309E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.162964702     </BIAS>
+ <RMSE>  0.167952210     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2574 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3589 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.162099406     </BIAS>
+ <RMSE>  0.178621978     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.81445698E-02 </MEAN_OBS>
+ <STDV_OBS>  0.309339583     </STDV_OBS>
+ <EXP>
+ <ID>        2575 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3568 </NUM>
+ <MEAN>   8.14470425E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.359683931     </BIAS>
+ <RMSE>  0.435676694     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2575 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3568 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.290187478     </BIAS>
+ <RMSE>  0.395129621     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.79961699E-02 </MEAN_OBS>
+ <STDV_OBS>  0.554169297     </STDV_OBS>
+ <EXP>
+ <ID>        2605 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3124 </NUM>
+ <MEAN>  0.126458988     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.282544285     </BIAS>
+ <RMSE>  0.863412499     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2605 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3124 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.282606006     </BIAS>
+ <RMSE>  0.863325477     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.120127670     </MEAN_OBS>
+ <STDV_OBS>  0.626467407     </STDV_OBS>
+ <EXP>
+ <ID>        2611 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3448 </NUM>
+ <MEAN>  0.142429680     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.272292286     </BIAS>
+ <RMSE>  0.903211772     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2611 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3448 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.271782994     </BIAS>
+ <RMSE>  0.904541135     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.86039233E-02 </MEAN_OBS>
+ <STDV_OBS>  0.774510741     </STDV_OBS>
+ <EXP>
+ <ID>        2625 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3524 </NUM>
+ <MEAN>  0.220787689     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.732176006     </BIAS>
+ <RMSE>  0.607631683     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2625 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3524 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.580820084     </BIAS>
+ <RMSE>  0.698197484     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.50503694E-02 </MEAN_OBS>
+ <STDV_OBS>  0.491245627     </STDV_OBS>
+ <EXP>
+ <ID>        2628 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3475 </NUM>
+ <MEAN>  0.118206836     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.253956258     </BIAS>
+ <RMSE>  0.916460752     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2628 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3475 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.246281281     </BIAS>
+ <RMSE>  0.920960128     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.25488909E-02 </MEAN_OBS>
+ <STDV_OBS>  0.311037421     </STDV_OBS>
+ <EXP>
+ <ID>        2644 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3323 </NUM>
+ <MEAN>  0.108316466     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.315930814     </BIAS>
+ <RMSE>  0.258882999     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2644 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3323 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.300672382     </BIAS>
+ <RMSE>  0.283041239     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.81971770E-02 </MEAN_OBS>
+ <STDV_OBS>  0.247166753     </STDV_OBS>
+ <EXP>
+ <ID>        2648 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3550 </NUM>
+ <MEAN>   6.10283129E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.177554846     </BIAS>
+ <RMSE>  0.738635838     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2648 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3550 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.174507201     </BIAS>
+ <RMSE>  0.743135870     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.72863734E-02 </MEAN_OBS>
+ <STDV_OBS>  0.526511729     </STDV_OBS>
+ <EXP>
+ <ID>        2500 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3169 </NUM>
+ <MEAN>  0.174241826     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.354587823     </BIAS>
+ <RMSE>  0.742850661     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2500 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3169 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.354070157     </BIAS>
+ <RMSE>  0.746069789     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.11631551E-02 </MEAN_OBS>
+ <STDV_OBS>  0.356163174     </STDV_OBS>
+ <EXP>
+ <ID>        2513 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3551 </NUM>
+ <MEAN>  0.102927759     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.205796838     </BIAS>
+ <RMSE>  0.825280666     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2513 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3551 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.206059426     </BIAS>
+ <RMSE>  0.824375272     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.111130059     </MEAN_OBS>
+ <STDV_OBS>  0.588232398     </STDV_OBS>
+ <EXP>
+ <ID>        2615 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3531 </NUM>
+ <MEAN>  0.154443324     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.401249975     </BIAS>
+ <RMSE>  0.744816363     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2615 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3531 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.414509594     </BIAS>
+ <RMSE>  0.731316268     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.104794212     </MEAN_OBS>
+ <STDV_OBS>  0.514702260     </STDV_OBS>
+ <EXP>
+ <ID>        2635 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3525 </NUM>
+ <MEAN>  0.132242635     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.368808001     </BIAS>
+ <RMSE>  0.757373571     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2635 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3525 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.371361941     </BIAS>
+ <RMSE>  0.754238307     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.110585935     </MEAN_OBS>
+ <STDV_OBS>  0.400486887     </STDV_OBS>
+ <EXP>
+ <ID>        2490 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3448 </NUM>
+ <MEAN>  0.148488566     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.331070691     </BIAS>
+ <RMSE>  0.536463261     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2490 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3448 </NUM>
+ <MEAN>   1.40129846E-45 </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.329011053     </BIAS>
+ <RMSE>  0.595006466     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.43398857E-02 </MEAN_OBS>
+ <STDV_OBS>  0.494553685     </STDV_OBS>
+ <EXP>
+ <ID>        2516 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3537 </NUM>
+ <MEAN>  0.137387112     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.304931134     </BIAS>
+ <RMSE>  0.849207819     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2516 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3537 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.305992097     </BIAS>
+ <RMSE>  0.846094429     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.33044350E-02 </MEAN_OBS>
+ <STDV_OBS>  0.425589502     </STDV_OBS>
+ <EXP>
+ <ID>        2539 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3444 </NUM>
+ <MEAN>  0.115083545     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.219129473     </BIAS>
+ <RMSE>  0.860287368     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2539 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3444 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.222109228     </BIAS>
+ <RMSE>  0.855206549     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.158794552     </MEAN_OBS>
+ <STDV_OBS>  0.428824484     </STDV_OBS>
+ <EXP>
+ <ID>        2540 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3502 </NUM>
+ <MEAN>  0.143393531     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.385145634     </BIAS>
+ <RMSE>  0.721329153     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2540 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3502 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.385423303     </BIAS>
+ <RMSE>  0.720784307     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.93196158E-02 </MEAN_OBS>
+ <STDV_OBS>  0.268268853     </STDV_OBS>
+ <EXP>
+ <ID>        2542 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3469 </NUM>
+ <MEAN>   7.77717307E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.227883607     </BIAS>
+ <RMSE>  0.600394070     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2542 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3469 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.216867685     </BIAS>
+ <RMSE>  0.604061723     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.15999985     </MEAN_OBS>
+ <STDV_OBS>  0.626554072     </STDV_OBS>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>  0.464551657     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.827517509     </BIAS>
+ <RMSE>  0.651778698     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.731336176     </BIAS>
+ <RMSE>  0.771796703     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.722222149     </MEAN_OBS>
+ <STDV_OBS>  0.589779735     </STDV_OBS>
+ <EXP>
+ <ID>        2545 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>          18 </NUM>
+ <MEAN>  0.676263392     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.540712178     </BIAS>
+ <RMSE>  0.638136029     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2545 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>          18 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.411808312     </BIAS>
+ <RMSE>  0.753542483     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.53058986E-02 </MEAN_OBS>
+ <STDV_OBS>  0.152526110     </STDV_OBS>
+ <EXP>
+ <ID>        2546 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3481 </NUM>
+ <MEAN>   5.50829284E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.158832744     </BIAS>
+ <RMSE>  0.548902869     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2546 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3481 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.148628265     </BIAS>
+ <RMSE>  0.529332936     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.30139014E-03 </MEAN_OBS>
+ <STDV_OBS>   8.36153105E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2548 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3464 </NUM>
+ <MEAN>   2.44936012E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>   8.13433826E-02 </BIAS>
+ <RMSE>  0.309476286     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2548 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3464 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   8.00770745E-02 </BIAS>
+ <RMSE>  0.309024304     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.81923490E-02 </MEAN_OBS>
+ <STDV_OBS>  0.221809968     </STDV_OBS>
+ <EXP>
+ <ID>        2549 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3452 </NUM>
+ <MEAN>   7.91135803E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.214415669     </BIAS>
+ <RMSE>  0.420504123     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2549 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3452 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.201870859     </BIAS>
+ <RMSE>  0.419300377     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.17578367E-02 </MEAN_OBS>
+ <STDV_OBS>  0.117908940     </STDV_OBS>
+ <EXP>
+ <ID>        2552 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3436 </NUM>
+ <MEAN>   3.78005169E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.127719373     </BIAS>
+ <RMSE>  0.302947104     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2552 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3436 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.116560213     </BIAS>
+ <RMSE>  0.319642454     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.81031954E-02 </MEAN_OBS>
+ <STDV_OBS>  0.140356302     </STDV_OBS>
+ <EXP>
+ <ID>        2554 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3469 </NUM>
+ <MEAN>   4.65513431E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.154775873     </BIAS>
+ <RMSE>  0.265103191     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2554 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3469 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.153672233     </BIAS>
+ <RMSE>  0.265339553     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.05714285     </MEAN_OBS>
+ <STDV_OBS>  0.820840836     </STDV_OBS>
+ <EXP>
+ <ID>        2556 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>          42 </NUM>
+ <MEAN>   1.28545845     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.471210182     </BIAS>
+ <RMSE>  0.858989954     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2556 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>          42 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.464289159     </BIAS>
+ <RMSE>  0.860155523     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.55256787E-02 </MEAN_OBS>
+ <STDV_OBS>  0.302070379     </STDV_OBS>
+ <EXP>
+ <ID>        2557 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3567 </NUM>
+ <MEAN>   6.53863549E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.312503368     </BIAS>
+ <RMSE>  0.515124023     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2557 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3567 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.311323404     </BIAS>
+ <RMSE>  0.510978281     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.08371554E-02 </MEAN_OBS>
+ <STDV_OBS>  0.104868613     </STDV_OBS>
+ <EXP>
+ <ID>        2558 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3488 </NUM>
+ <MEAN>   3.43469866E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>   9.65551510E-02 </BIAS>
+ <RMSE>  0.432234496     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2558 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3488 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   9.52525586E-02 </BIAS>
+ <RMSE>  0.436772674     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.77301309E-02 </MEAN_OBS>
+ <STDV_OBS>  0.372920960     </STDV_OBS>
+ <EXP>
+ <ID>        2559 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3454 </NUM>
+ <MEAN>   8.96563604E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.314735293     </BIAS>
+ <RMSE>  0.587202489     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2559 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3454 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.325269163     </BIAS>
+ <RMSE>  0.497787088     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.366666645     </MEAN_OBS>
+ <STDV_OBS>  0.411881596     </STDV_OBS>
+ <EXP>
+ <ID>        2561 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>          18 </NUM>
+ <MEAN>  0.479307979     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.299831837     </BIAS>
+ <RMSE>  0.685737312     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2561 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>          18 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.302955508     </BIAS>
+ <RMSE>  0.688920081     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.37925425E-02 </MEAN_OBS>
+ <STDV_OBS>  0.329430521     </STDV_OBS>
+ <EXP>
+ <ID>        2587 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3375 </NUM>
+ <MEAN>   7.24456385E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.318043470     </BIAS>
+ <RMSE>  0.253615975     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2587 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3375 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.312946856     </BIAS>
+ <RMSE>  0.322503805     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.52679582E-02 </MEAN_OBS>
+ <STDV_OBS>  0.338522255     </STDV_OBS>
+ <EXP>
+ <ID>        2622 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3508 </NUM>
+ <MEAN>   8.36125091E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.164139599     </BIAS>
+ <RMSE>  0.882021725     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2622 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3508 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.165658072     </BIAS>
+ <RMSE>  0.878678203     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.117665984     </MEAN_OBS>
+ <STDV_OBS>  0.667166173     </STDV_OBS>
+ <EXP>
+ <ID>        2623 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3419 </NUM>
+ <MEAN>  0.175304085     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.359025627     </BIAS>
+ <RMSE>  0.857613385     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2623 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3419 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.346489638     </BIAS>
+ <RMSE>  0.863990784     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.51689196     </MEAN_OBS>
+ <STDV_OBS>   1.71550727     </STDV_OBS>
+ <EXP>
+ <ID>        2629 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         148 </NUM>
+ <MEAN>   1.71604609     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>   1.01854670     </BIAS>
+ <RMSE>  0.809330106     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2629 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         148 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   1.02655911     </BIAS>
+ <RMSE>  0.801563859     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.266666651     </MEAN_OBS>
+ <STDV_OBS>  0.280754626     </STDV_OBS>
+ <EXP>
+ <ID>        2661 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>          18 </NUM>
+ <MEAN>  0.491944939     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.430173278     </BIAS>
+ <RMSE> -0.408121735     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2661 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>          18 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.316432714     </BIAS>
+ <RMSE> -0.148839116     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.11250043     </MEAN_OBS>
+ <STDV_OBS>   1.65097296     </STDV_OBS>
+ <EXP>
+ <ID>        2667 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2.63505220     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>   1.56461787     </BIAS>
+ <RMSE>  0.523500443     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2667 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   1.51513338     </BIAS>
+ <RMSE>  0.560594141     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.166026130     </MEAN_OBS>
+ <STDV_OBS>  0.565911353     </STDV_OBS>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3329 </NUM>
+ <MEAN>  0.203730807     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.380291969     </BIAS>
+ <RMSE>  0.760169744     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3329 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.374983490     </BIAS>
+ <RMSE>  0.765222609     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.148095980     </MEAN_OBS>
+ <STDV_OBS>  0.501915336     </STDV_OBS>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3335 </NUM>
+ <MEAN>  0.178504556     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.346902400     </BIAS>
+ <RMSE>  0.752690315     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3335 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.347448140     </BIAS>
+ <RMSE>  0.752937853     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.53811204E-02 </MEAN_OBS>
+ <STDV_OBS>  0.363701046     </STDV_OBS>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3386 </NUM>
+ <MEAN>  0.124722749     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.241649151     </BIAS>
+ <RMSE>  0.748830318     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3386 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.239022613     </BIAS>
+ <RMSE>  0.755139530     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.08959449E-02 </MEAN_OBS>
+ <STDV_OBS>  0.216059506     </STDV_OBS>
+ <EXP>
+ <ID>        2317 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3460 </NUM>
+ <MEAN>   5.55989258E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.170061663     </BIAS>
+ <RMSE>  0.206255451     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2317 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3460 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.222225457     </BIAS>
+ <RMSE>  0.157306597     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.20566038E-02 </MEAN_OBS>
+ <STDV_OBS>  0.123815738     </STDV_OBS>
+ <EXP>
+ <ID>        2319 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3355 </NUM>
+ <MEAN>   4.45307158E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.149306804     </BIAS>
+ <RMSE>  0.456817061     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2319 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3355 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.119370148     </BIAS>
+ <RMSE>  0.444985032     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.32004862E-03 </MEAN_OBS>
+ <STDV_OBS>  0.115600124     </STDV_OBS>
+ <EXP>
+ <ID>        2321 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3412 </NUM>
+ <MEAN>   3.41087580E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>   8.05323496E-02 </BIAS>
+ <RMSE>  0.700969219     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2321 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3412 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   8.21173415E-02 </BIAS>
+ <RMSE>  0.724011064     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.88566773E-02 </MEAN_OBS>
+ <STDV_OBS>  0.236215830     </STDV_OBS>
+ <EXP>
+ <ID>        2325 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3376 </NUM>
+ <MEAN>   8.45668241E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.223798349     </BIAS>
+ <RMSE>  0.537017703     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2325 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3376 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.229454368     </BIAS>
+ <RMSE>  0.441693068     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.83147676E-02 </MEAN_OBS>
+ <STDV_OBS>  0.138136104     </STDV_OBS>
+ <EXP>
+ <ID>        2329 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3418 </NUM>
+ <MEAN>   4.51386422E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.128422737     </BIAS>
+ <RMSE>  0.395000696     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2329 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3418 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.132825166     </BIAS>
+ <RMSE>  0.382540584     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.62219694E-02 </MEAN_OBS>
+ <STDV_OBS>  0.292667657     </STDV_OBS>
+ <EXP>
+ <ID>        2331 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3351 </NUM>
+ <MEAN>   8.31235498E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.223654106     </BIAS>
+ <RMSE>  0.699158192     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2331 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3351 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.218688309     </BIAS>
+ <RMSE>  0.709046841     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.82778586E-02 </MEAN_OBS>
+ <STDV_OBS>  0.280290067     </STDV_OBS>
+ <EXP>
+ <ID>        2343 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3426 </NUM>
+ <MEAN>   6.98353350E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.226304039     </BIAS>
+ <RMSE>  0.686561823     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2343 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3426 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.223181158     </BIAS>
+ <RMSE>  0.694033802     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.51139063E-02 </MEAN_OBS>
+ <STDV_OBS>  0.305400223     </STDV_OBS>
+ <EXP>
+ <ID>        2347 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3336 </NUM>
+ <MEAN>   6.66925982E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.227441624     </BIAS>
+ <RMSE>  0.688824296     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2347 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3336 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.223918259     </BIAS>
+ <RMSE>  0.690230370     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.10163717E-02 </MEAN_OBS>
+ <STDV_OBS>  0.341213793     </STDV_OBS>
+ <EXP>
+ <ID>        2368 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3542 </NUM>
+ <MEAN>   9.77340862E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.286101997     </BIAS>
+ <RMSE>  0.587158501     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2368 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3542 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.272124112     </BIAS>
+ <RMSE>  0.606441379     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.35075520E-02 </MEAN_OBS>
+ <STDV_OBS>  0.448600352     </STDV_OBS>
+ <EXP>
+ <ID>        2382 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3444 </NUM>
+ <MEAN>  0.114525571     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.426772177     </BIAS>
+ <RMSE>  0.461853862     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2382 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3444 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.398962289     </BIAS>
+ <RMSE>  0.477552980     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.58662643E-02 </MEAN_OBS>
+ <STDV_OBS>  0.230522186     </STDV_OBS>
+ <EXP>
+ <ID>        2403 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3382 </NUM>
+ <MEAN>   5.69748804E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.189749256     </BIAS>
+ <RMSE>  0.557999551     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2403 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3382 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.192309693     </BIAS>
+ <RMSE>  0.555928171     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.09565084E-02 </MEAN_OBS>
+ <STDV_OBS>  0.213892028     </STDV_OBS>
+ <EXP>
+ <ID>        2411 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3450 </NUM>
+ <MEAN>   7.41011947E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.172015056     </BIAS>
+ <RMSE>  0.612728119     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2411 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3450 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.170343786     </BIAS>
+ <RMSE>  0.609273255     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.76904921E-02 </MEAN_OBS>
+ <STDV_OBS>  0.185586259     </STDV_OBS>
+ <EXP>
+ <ID>        2423 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3464 </NUM>
+ <MEAN>   6.90535605E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.158861339     </BIAS>
+ <RMSE>  0.570381343     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2423 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3464 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.168282762     </BIAS>
+ <RMSE>  0.534568906     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.86937629E-02 </MEAN_OBS>
+ <STDV_OBS>  0.223274454     </STDV_OBS>
+ <EXP>
+ <ID>        2426 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3353 </NUM>
+ <MEAN>   7.43328407E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.205688670     </BIAS>
+ <RMSE>  0.583191812     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2426 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3353 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.211331204     </BIAS>
+ <RMSE>  0.559078634     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.31902197E-02 </MEAN_OBS>
+ <STDV_OBS>  0.250212491     </STDV_OBS>
+ <EXP>
+ <ID>        2429 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3398 </NUM>
+ <MEAN>   8.74367133E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.233522773     </BIAS>
+ <RMSE>  0.694619060     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2429 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3398 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.226759285     </BIAS>
+ <RMSE>  0.712790906     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.32471081E-02 </MEAN_OBS>
+ <STDV_OBS>  0.181197524     </STDV_OBS>
+ <EXP>
+ <ID>        2441 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3480 </NUM>
+ <MEAN>   4.31843288E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.140656129     </BIAS>
+ <RMSE>  0.744088769     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2441 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3480 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.138000220     </BIAS>
+ <RMSE>  0.721244037     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.492857158     </MEAN_OBS>
+ <STDV_OBS>  0.490793049     </STDV_OBS>
+ <EXP>
+ <ID>        2443 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>          84 </NUM>
+ <MEAN>  0.583104193     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.497111857     </BIAS>
+ <RMSE>  0.437508017     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2443 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>          84 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.466408521     </BIAS>
+ <RMSE>  0.404011965     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.43249030E-02 </MEAN_OBS>
+ <STDV_OBS>  0.195194632     </STDV_OBS>
+ <EXP>
+ <ID>        2449 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3496 </NUM>
+ <MEAN>   5.61367422E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.153550670     </BIAS>
+ <RMSE>  0.661729276     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2449 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3496 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.151860312     </BIAS>
+ <RMSE>  0.641703606     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.94880751E-02 </MEAN_OBS>
+ <STDV_OBS>  0.189769298     </STDV_OBS>
+ <EXP>
+ <ID>        2468 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3223 </NUM>
+ <MEAN>   8.85792077E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.182445705     </BIAS>
+ <RMSE>  0.527872384     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2468 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3223 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.177759811     </BIAS>
+ <RMSE>  0.518409252     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.80532998E-02 </MEAN_OBS>
+ <STDV_OBS>  0.256546229     </STDV_OBS>
+ <EXP>
+ <ID>        2481 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3452 </NUM>
+ <MEAN>   9.10991058E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.226416633     </BIAS>
+ <RMSE>  0.544955254     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2481 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3452 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.226685792     </BIAS>
+ <RMSE>  0.556037307     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.120336086     </MEAN_OBS>
+ <STDV_OBS>  0.298324645     </STDV_OBS>
+ <EXP>
+ <ID>        2482 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3334 </NUM>
+ <MEAN>  0.112188146     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.322132826     </BIAS>
+ <RMSE>  0.471845776     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2482 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3334 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.318332791     </BIAS>
+ <RMSE>  0.455325931     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.81446071E-02 </MEAN_OBS>
+ <STDV_OBS>  0.269712597     </STDV_OBS>
+ <EXP>
+ <ID>        2486 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3471 </NUM>
+ <MEAN>   5.72851188E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.161595300     </BIAS>
+ <RMSE>  0.596229196     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2486 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3471 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.230795592     </BIAS>
+ <RMSE>  0.517857015     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.11016965     </MEAN_OBS>
+ <STDV_OBS>   1.25650394     </STDV_OBS>
+ <EXP>
+ <ID>        2489 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>          59 </NUM>
+ <MEAN>  0.809630871     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>   1.43965983     </BIAS>
+ <RMSE>  0.597306192     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2489 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>          59 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   1.08550072     </BIAS>
+ <RMSE>  0.499467462     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.184959635     </MEAN_OBS>
+ <STDV_OBS>  0.472116411     </STDV_OBS>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3311 </NUM>
+ <MEAN>  0.247984901     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.510755837     </BIAS>
+ <RMSE>  0.490526527     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3311 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.477161884     </BIAS>
+ <RMSE>  0.523285508     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.42416233E-02 </MEAN_OBS>
+ <STDV_OBS>  0.292102695     </STDV_OBS>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3428 </NUM>
+ <MEAN>  0.139330953     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.276758313     </BIAS>
+ <RMSE>  0.472342104     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3428 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.281478792     </BIAS>
+ <RMSE>  0.466899663     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.167272687     </MEAN_OBS>
+ <STDV_OBS>  0.412835658     </STDV_OBS>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3080 </NUM>
+ <MEAN>  0.168294847     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.305306584     </BIAS>
+ <RMSE>  0.756881952     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3080 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.309246421     </BIAS>
+ <RMSE>  0.750881910     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.154943839     </MEAN_OBS>
+ <STDV_OBS>  0.349748820     </STDV_OBS>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3378 </NUM>
+ <MEAN>  0.142787546     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.263695598     </BIAS>
+ <RMSE>  0.815524161     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3378 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.263050258     </BIAS>
+ <RMSE>  0.816777587     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.150129229     </MEAN_OBS>
+ <STDV_OBS>  0.365613520     </STDV_OBS>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3483 </NUM>
+ <MEAN>  0.161920071     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.294001251     </BIAS>
+ <RMSE>  0.758649647     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3483 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.294689357     </BIAS>
+ <RMSE>  0.757442474     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.200839445     </MEAN_OBS>
+ <STDV_OBS>  0.602158487     </STDV_OBS>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3335 </NUM>
+ <MEAN>  0.216043159     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.449521393     </BIAS>
+ <RMSE>  0.687732100     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3335 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.486801118     </BIAS>
+ <RMSE>  0.655791104     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.268513173     </MEAN_OBS>
+ <STDV_OBS>  0.804743409     </STDV_OBS>
+ <EXP>
+ <ID>        2121 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3373 </NUM>
+ <MEAN>  0.346589655     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.659242034     </BIAS>
+ <RMSE>  0.658855617     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2121 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3373 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.661666512     </BIAS>
+ <RMSE>  0.656016111     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.135233626     </MEAN_OBS>
+ <STDV_OBS>  0.439104050     </STDV_OBS>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        2912 </NUM>
+ <MEAN>  0.164545193     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.340038091     </BIAS>
+ <RMSE>  0.670856953     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        2912 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.346674532     </BIAS>
+ <RMSE>  0.658278406     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.697912157     </MEAN_OBS>
+ <STDV_OBS>  0.942854464     </STDV_OBS>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         479 </NUM>
+ <MEAN>  0.592223406     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.736883879     </BIAS>
+ <RMSE>  0.633955121     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         479 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.729913294     </BIAS>
+ <RMSE>  0.638083041     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.151107237     </MEAN_OBS>
+ <STDV_OBS>  0.474969149     </STDV_OBS>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3432 </NUM>
+ <MEAN>  0.162197471     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.350875020     </BIAS>
+ <RMSE>  0.743904233     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3432 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.353878349     </BIAS>
+ <RMSE>  0.739658535     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.131761461     </MEAN_OBS>
+ <STDV_OBS>  0.548297942     </STDV_OBS>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        2969 </NUM>
+ <MEAN>  0.203311741     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.359043181     </BIAS>
+ <RMSE>  0.772609234     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        2969 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.339204460     </BIAS>
+ <RMSE>  0.785687447     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.209568352     </MEAN_OBS>
+ <STDV_OBS>  0.445703298     </STDV_OBS>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3407 </NUM>
+ <MEAN>  0.167290792     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.294501454     </BIAS>
+ <RMSE>  0.862535179     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3407 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.295679897     </BIAS>
+ <RMSE>  0.861329019     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.30727637     </MEAN_OBS>
+ <STDV_OBS>  0.891946614     </STDV_OBS>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         646 </NUM>
+ <MEAN>  0.731065571     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.816409945     </BIAS>
+ <RMSE>  0.564574957     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         646 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.809064031     </BIAS>
+ <RMSE>  0.567475438     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.105206497     </MEAN_OBS>
+ <STDV_OBS>  0.440998346     </STDV_OBS>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3342 </NUM>
+ <MEAN>  0.138813227     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.240432382     </BIAS>
+ <RMSE>  0.838859856     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3342 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.246339783     </BIAS>
+ <RMSE>  0.829513848     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.166843385     </MEAN_OBS>
+ <STDV_OBS>  0.469887495     </STDV_OBS>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3393 </NUM>
+ <MEAN>  0.170938373     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.327122867     </BIAS>
+ <RMSE>  0.813781083     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3393 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.327662975     </BIAS>
+ <RMSE>  0.812981486     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.95321688E-02 </MEAN_OBS>
+ <STDV_OBS>  0.606919229     </STDV_OBS>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3420 </NUM>
+ <MEAN>  0.198000506     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.384115875     </BIAS>
+ <RMSE>  0.853305638     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3420 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.383558512     </BIAS>
+ <RMSE>  0.851668477     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.141017228     </MEAN_OBS>
+ <STDV_OBS>  0.377124041     </STDV_OBS>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3323 </NUM>
+ <MEAN>  0.147666618     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.200208291     </BIAS>
+ <RMSE>  0.871059954     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3323 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.199248880     </BIAS>
+ <RMSE>  0.872181356     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.113224581     </MEAN_OBS>
+ <STDV_OBS>  0.471114010     </STDV_OBS>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3365 </NUM>
+ <MEAN>  0.153689280     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.274465233     </BIAS>
+ <RMSE>  0.835507274     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3365 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.273529440     </BIAS>
+ <RMSE>  0.829190671     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.106453680     </MEAN_OBS>
+ <STDV_OBS>  0.353290856     </STDV_OBS>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3378 </NUM>
+ <MEAN>  0.147343636     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.196774781     </BIAS>
+ <RMSE>  0.835968316     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3378 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.197900191     </BIAS>
+ <RMSE>  0.829128027     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.102419645     </MEAN_OBS>
+ <STDV_OBS>  0.434069991     </STDV_OBS>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3389 </NUM>
+ <MEAN>  0.138853431     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.323834956     </BIAS>
+ <RMSE>  0.717918515     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3389 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.330676705     </BIAS>
+ <RMSE>  0.709382832     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.51829636E-02 </MEAN_OBS>
+ <STDV_OBS>  0.374604583     </STDV_OBS>
+ <EXP>
+ <ID>        2231 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3280 </NUM>
+ <MEAN>  0.117935076     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.291332543     </BIAS>
+ <RMSE>  0.618047118     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2231 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3280 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.297796458     </BIAS>
+ <RMSE>  0.606506288     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.54316726E-02 </MEAN_OBS>
+ <STDV_OBS>  0.385831982     </STDV_OBS>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3336 </NUM>
+ <MEAN>  0.121305600     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.299234420     </BIAS>
+ <RMSE>  0.687804222     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3336 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.265746087     </BIAS>
+ <RMSE>  0.735998452     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.112699859     </MEAN_OBS>
+ <STDV_OBS>  0.409016728     </STDV_OBS>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3441 </NUM>
+ <MEAN>  0.123265207     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.302532375     </BIAS>
+ <RMSE>  0.775470853     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3441 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.310064048     </BIAS>
+ <RMSE>  0.764926612     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.109155707     </MEAN_OBS>
+ <STDV_OBS>  0.362926185     </STDV_OBS>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3364 </NUM>
+ <MEAN>  0.106166363     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.277426720     </BIAS>
+ <RMSE>  0.771700740     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3364 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.278617054     </BIAS>
+ <RMSE>  0.770098984     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.28866491E-02 </MEAN_OBS>
+ <STDV_OBS>  0.444507569     </STDV_OBS>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3388 </NUM>
+ <MEAN>  0.141915739     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.283845186     </BIAS>
+ <RMSE>  0.775214911     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3388 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.283290625     </BIAS>
+ <RMSE>  0.776770055     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.90799782E-02 </MEAN_OBS>
+ <STDV_OBS>  0.347992599     </STDV_OBS>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3174 </NUM>
+ <MEAN>  0.123489991     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.248297974     </BIAS>
+ <RMSE>  0.697473407     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3174 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.255696326     </BIAS>
+ <RMSE>  0.687053442     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.85005742E-02 </MEAN_OBS>
+ <STDV_OBS>  0.326568305     </STDV_OBS>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3148 </NUM>
+ <MEAN>  0.109269753     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.281963855     </BIAS>
+ <RMSE>  0.673477471     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3148 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.284174740     </BIAS>
+ <RMSE>  0.669554770     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.78972837E-02 </MEAN_OBS>
+ <STDV_OBS>  0.364098102     </STDV_OBS>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3329 </NUM>
+ <MEAN>  0.121428505     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.250316501     </BIAS>
+ <RMSE>  0.753856242     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3329 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.248798609     </BIAS>
+ <RMSE>  0.757004499     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.591428697     </MEAN_OBS>
+ <STDV_OBS>   1.31874144     </STDV_OBS>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>  0.775254369     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.971941054     </BIAS>
+ <RMSE>  0.709168077     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.975998402     </BIAS>
+ <RMSE>  0.704018056     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.509259164     </MEAN_OBS>
+ <STDV_OBS>   1.01579416     </STDV_OBS>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         324 </NUM>
+ <MEAN>  0.518708587     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.631859303     </BIAS>
+ <RMSE>  0.805425882     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         324 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.633730114     </BIAS>
+ <RMSE>  0.804923832     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.611111104     </MEAN_OBS>
+ <STDV_OBS>   1.29935944     </STDV_OBS>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  0.749286234     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.825850606     </BIAS>
+ <RMSE>  0.794287384     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.821386278     </BIAS>
+ <RMSE>  0.794414103     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.427305996     </MEAN_OBS>
+ <STDV_OBS>   1.03025186     </STDV_OBS>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         271 </NUM>
+ <MEAN>  0.512432396     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.642990828     </BIAS>
+ <RMSE>  0.808490574     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         271 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.644193590     </BIAS>
+ <RMSE>  0.807384551     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.357925087     </MEAN_OBS>
+ <STDV_OBS>  0.803763270     </STDV_OBS>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         347 </NUM>
+ <MEAN>  0.499894887     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.563961446     </BIAS>
+ <RMSE>  0.743539393     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         347 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.545230508     </BIAS>
+ <RMSE>  0.751902282     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.21222258     </MEAN_OBS>
+ <STDV_OBS>   1.22590768     </STDV_OBS>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         180 </NUM>
+ <MEAN>  0.878541946     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>   1.05818772     </BIAS>
+ <RMSE>  0.698018014     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         180 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   1.05726957     </BIAS>
+ <RMSE>  0.699467719     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.923750341     </MEAN_OBS>
+ <STDV_OBS>   1.55940485     </STDV_OBS>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         160 </NUM>
+ <MEAN>   1.20553923     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>   1.20317280     </BIAS>
+ <RMSE>  0.667199850     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         160 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   1.20781600     </BIAS>
+ <RMSE>  0.659058630     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.01111114     </MEAN_OBS>
+ <STDV_OBS>   1.40628314     </STDV_OBS>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   1.17443919     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.912622154     </BIAS>
+ <RMSE>  0.766673148     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.914064407     </BIAS>
+ <RMSE>  0.767677903     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.382142574     </MEAN_OBS>
+ <STDV_OBS>   1.06056213     </STDV_OBS>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         336 </NUM>
+ <MEAN>  0.514683545     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.714455068     </BIAS>
+ <RMSE>  0.740980327     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         336 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.716696858     </BIAS>
+ <RMSE>  0.739245892     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.789285779     </MEAN_OBS>
+ <STDV_OBS>   1.15789580     </STDV_OBS>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         168 </NUM>
+ <MEAN>  0.867107332     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.800065935     </BIAS>
+ <RMSE>  0.784609973     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         168 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.809145868     </BIAS>
+ <RMSE>  0.779250860     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.203278661     </MEAN_OBS>
+ <STDV_OBS>  0.626062632     </STDV_OBS>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         366 </NUM>
+ <MEAN>  0.402587920     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.519066930     </BIAS>
+ <RMSE>  0.607765615     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         366 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.504557312     </BIAS>
+ <RMSE>  0.628293633     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.320000112     </MEAN_OBS>
+ <STDV_OBS>  0.918168902     </STDV_OBS>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         330 </NUM>
+ <MEAN>  0.499953389     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.673949659     </BIAS>
+ <RMSE>  0.690339208     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         330 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.671679974     </BIAS>
+ <RMSE>  0.689666867     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.517241359     </MEAN_OBS>
+ <STDV_OBS>  0.849587440     </STDV_OBS>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         174 </NUM>
+ <MEAN>  0.522484362     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.775156260     </BIAS>
+ <RMSE>  0.645176470     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         174 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.786933303     </BIAS>
+ <RMSE>  0.635707796     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.422844589     </MEAN_OBS>
+ <STDV_OBS>   1.03225243     </STDV_OBS>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         232 </NUM>
+ <MEAN>  0.640610039     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>   1.02700973     </BIAS>
+ <RMSE>  0.436026931     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         232 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.918277681     </BIAS>
+ <RMSE>  0.492851317     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.423077226     </MEAN_OBS>
+ <STDV_OBS>   1.04139745     </STDV_OBS>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         312 </NUM>
+ <MEAN>  0.498274237     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.601340592     </BIAS>
+ <RMSE>  0.821655631     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         312 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.680281818     </BIAS>
+ <RMSE>  0.780339360     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.593103409     </MEAN_OBS>
+ <STDV_OBS>   1.24451709     </STDV_OBS>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         174 </NUM>
+ <MEAN>  0.775278926     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.601699591     </BIAS>
+ <RMSE>  0.873719573     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         174 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.617852032     </BIAS>
+ <RMSE>  0.867735207     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.269354701     </MEAN_OBS>
+ <STDV_OBS>  0.937023580     </STDV_OBS>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         372 </NUM>
+ <MEAN>  0.439801902     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.706541181     </BIAS>
+ <RMSE>  0.652393401     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         372 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.753887057     </BIAS>
+ <RMSE>  0.623903155     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.527999938     </MEAN_OBS>
+ <STDV_OBS>   1.13918853     </STDV_OBS>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         275 </NUM>
+ <MEAN>  0.576740026     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.551927388     </BIAS>
+ <RMSE>  0.883210778     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         275 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.561052740     </BIAS>
+ <RMSE>  0.880372882     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.663773477     </MEAN_OBS>
+ <STDV_OBS>   1.07175684     </STDV_OBS>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         265 </NUM>
+ <MEAN>  0.750365555     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.948290765     </BIAS>
+ <RMSE>  0.617883682     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         265 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.965475023     </BIAS>
+ <RMSE>  0.603939056     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.587600052     </MEAN_OBS>
+ <STDV_OBS>   1.11099696     </STDV_OBS>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         250 </NUM>
+ <MEAN>  0.605947554     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.730729342     </BIAS>
+ <RMSE>  0.803223550     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         250 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.725843787     </BIAS>
+ <RMSE>  0.805747628     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.600000083     </MEAN_OBS>
+ <STDV_OBS>   1.28685582     </STDV_OBS>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         174 </NUM>
+ <MEAN>  0.768941164     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.825300634     </BIAS>
+ <RMSE>  0.764131188     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         174 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.826389372     </BIAS>
+ <RMSE>  0.765308797     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.42660534     </MEAN_OBS>
+ <STDV_OBS>   1.40748763     </STDV_OBS>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         109 </NUM>
+ <MEAN>   1.28931165     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.696356773     </BIAS>
+ <RMSE>  0.871730566     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         109 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.699705482     </BIAS>
+ <RMSE>  0.871025860     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.743333280     </MEAN_OBS>
+ <STDV_OBS>   1.17569292     </STDV_OBS>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         180 </NUM>
+ <MEAN>  0.743608534     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.768460751     </BIAS>
+ <RMSE>  0.819625258     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         180 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.790482700     </BIAS>
+ <RMSE>  0.809036791     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.445161730     </MEAN_OBS>
+ <STDV_OBS>  0.975519836     </STDV_OBS>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         372 </NUM>
+ <MEAN>  0.444791228     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.844445169     </BIAS>
+ <RMSE>  0.729809582     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         372 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.846728623     </BIAS>
+ <RMSE>  0.728238463     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.891999662     </MEAN_OBS>
+ <STDV_OBS>   1.24990523     </STDV_OBS>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         150 </NUM>
+ <MEAN>  0.889063358     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.953250647     </BIAS>
+ <RMSE>  0.718738019     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         150 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.957160294     </BIAS>
+ <RMSE>  0.717311323     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.845714509     </MEAN_OBS>
+ <STDV_OBS>  0.994337201     </STDV_OBS>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>  0.620112538     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.801843524     </BIAS>
+ <RMSE>  0.808650494     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.810052395     </BIAS>
+ <RMSE>  0.802683830     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.866666615     </MEAN_OBS>
+ <STDV_OBS>   1.15943301     </STDV_OBS>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         126 </NUM>
+ <MEAN>  0.927919030     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.997753501     </BIAS>
+ <RMSE>  0.663437724     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         126 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   1.00112641     </BIAS>
+ <RMSE>  0.661129236     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.314285696     </MEAN_OBS>
+ <STDV_OBS>  0.952002347     </STDV_OBS>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         294 </NUM>
+ <MEAN>  0.495373785     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.598604321     </BIAS>
+ <RMSE>  0.778571904     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         294 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.600793779     </BIAS>
+ <RMSE>  0.780837655     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.682142913     </MEAN_OBS>
+ <STDV_OBS>  0.937617660     </STDV_OBS>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         168 </NUM>
+ <MEAN>  0.774370193     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.767258465     </BIAS>
+ <RMSE>  0.579310894     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         168 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.809367359     </BIAS>
+ <RMSE>  0.552781165     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.09999979     </MEAN_OBS>
+ <STDV_OBS>   1.21563411     </STDV_OBS>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>          84 </NUM>
+ <MEAN>   1.33735025     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>   1.21790910     </BIAS>
+ <RMSE>  0.492315114     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>          84 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   1.24033701     </BIAS>
+ <RMSE>  0.474713713     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.417543828     </MEAN_OBS>
+ <STDV_OBS>  0.831037521     </STDV_OBS>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         342 </NUM>
+ <MEAN>  0.458534241     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.601180434     </BIAS>
+ <RMSE>  0.734609425     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         342 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.605636597     </BIAS>
+ <RMSE>  0.733775616     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.312121004     </MEAN_OBS>
+ <STDV_OBS>  0.735839427     </STDV_OBS>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         396 </NUM>
+ <MEAN>  0.402307153     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.623934269     </BIAS>
+ <RMSE>  0.609616935     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         396 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.643368065     </BIAS>
+ <RMSE>  0.604606032     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.328813642     </MEAN_OBS>
+ <STDV_OBS>  0.949237943     </STDV_OBS>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         354 </NUM>
+ <MEAN>  0.533288836     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.813321590     </BIAS>
+ <RMSE>  0.547899425     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         354 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.850326538     </BIAS>
+ <RMSE>  0.531171322     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.392682880     </MEAN_OBS>
+ <STDV_OBS>   1.08685863     </STDV_OBS>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         246 </NUM>
+ <MEAN>  0.569230080     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.607970774     </BIAS>
+ <RMSE>  0.828847110     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         246 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.605614662     </BIAS>
+ <RMSE>  0.830428004     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.493478268     </MEAN_OBS>
+ <STDV_OBS>   1.01961899     </STDV_OBS>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.546346784     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.849359930     </BIAS>
+ <RMSE>  0.685517430     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.841367424     </BIAS>
+ <RMSE>  0.690852225     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.466666907     </MEAN_OBS>
+ <STDV_OBS>  0.955846727     </STDV_OBS>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>         234 </NUM>
+ <MEAN>  0.698340297     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.735906243     </BIAS>
+ <RMSE>  0.639625311     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>         234 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.749600410     </BIAS>
+ <RMSE>  0.618677318     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.88905418E-02 </MEAN_OBS>
+ <STDV_OBS>  0.275897175     </STDV_OBS>
+ <EXP>
+ <ID>       26115 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>   7.55018815E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.298883229     </BIAS>
+ <RMSE>  0.537060618     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26115 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.307324082     </BIAS>
+ <RMSE>  0.539247096     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.15980700E-02 </MEAN_OBS>
+ <STDV_OBS>  0.309810519     </STDV_OBS>
+ <EXP>
+ <ID>       26135 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>  0.115739800     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.204526365     </BIAS>
+ <RMSE>  0.772262752     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26135 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.196795180     </BIAS>
+ <RMSE>  0.776698291     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.95186886E-02 </MEAN_OBS>
+ <STDV_OBS>  0.259236217     </STDV_OBS>
+ <EXP>
+ <ID>       26242 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        1288 </NUM>
+ <MEAN>   9.91698131E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.257931978     </BIAS>
+ <RMSE>  0.593748510     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26242 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        1288 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.257799298     </BIAS>
+ <RMSE>  0.590843856     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.11325875E-02 </MEAN_OBS>
+ <STDV_OBS>  0.260485679     </STDV_OBS>
+ <EXP>
+ <ID>       26247 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>   9.17608216E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.217564166     </BIAS>
+ <RMSE>  0.669656157     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26247 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.216056451     </BIAS>
+ <RMSE>  0.677336276     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.63459632E-02 </MEAN_OBS>
+ <STDV_OBS>  0.351150662     </STDV_OBS>
+ <EXP>
+ <ID>       26029 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>  0.117705517     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.236592799     </BIAS>
+ <RMSE>  0.753557920     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26029 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.238604531     </BIAS>
+ <RMSE>  0.745246053     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.137936383     </MEAN_OBS>
+ <STDV_OBS>  0.577807426     </STDV_OBS>
+ <EXP>
+ <ID>       26058 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>  0.205832124     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.355760992     </BIAS>
+ <RMSE>  0.807468832     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26058 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.350576729     </BIAS>
+ <RMSE>  0.803573966     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.41231218E-02 </MEAN_OBS>
+ <STDV_OBS>  0.276477098     </STDV_OBS>
+ <EXP>
+ <ID>       26124 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        1283 </NUM>
+ <MEAN>  0.103473239     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.245983586     </BIAS>
+ <RMSE>  0.696622074     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26124 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        1283 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.250751168     </BIAS>
+ <RMSE>  0.687351882     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.81924000E-02 </MEAN_OBS>
+ <STDV_OBS>  0.255791247     </STDV_OBS>
+ <EXP>
+ <ID>       26128 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>   7.30561092E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.230829284     </BIAS>
+ <RMSE>  0.782695353     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26128 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.225450456     </BIAS>
+ <RMSE>  0.798835456     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.20966235E-02 </MEAN_OBS>
+ <STDV_OBS>  0.304624587     </STDV_OBS>
+ <EXP>
+ <ID>       26134 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        1283 </NUM>
+ <MEAN>  0.120925248     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.272384942     </BIAS>
+ <RMSE>  0.644778430     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26134 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        1283 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.272076219     </BIAS>
+ <RMSE>  0.644575834     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.98369998E-02 </MEAN_OBS>
+ <STDV_OBS>  0.426250011     </STDV_OBS>
+ <EXP>
+ <ID>       26141 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>  0.173375323     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.301228255     </BIAS>
+ <RMSE>  0.710039973     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26141 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.300808966     </BIAS>
+ <RMSE>  0.708249390     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.58028829E-02 </MEAN_OBS>
+ <STDV_OBS>  0.341247380     </STDV_OBS>
+ <EXP>
+ <ID>       26144 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>  0.127630100     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.185431287     </BIAS>
+ <RMSE>  0.851790905     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26144 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.182458714     </BIAS>
+ <RMSE>  0.855601490     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.101784348     </MEAN_OBS>
+ <STDV_OBS>  0.381760150     </STDV_OBS>
+ <EXP>
+ <ID>       26145 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>  0.144058436     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.239218295     </BIAS>
+ <RMSE>  0.796981215     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26145 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.240989491     </BIAS>
+ <RMSE>  0.792957067     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.05299962E-02 </MEAN_OBS>
+ <STDV_OBS>  0.180186331     </STDV_OBS>
+ <EXP>
+ <ID>       26214 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        1283 </NUM>
+ <MEAN>   5.60466573E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.215170577     </BIAS>
+ <RMSE>  0.324878722     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26214 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        1283 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.197947189     </BIAS>
+ <RMSE>  0.372024715     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.15671435E-02 </MEAN_OBS>
+ <STDV_OBS>  0.323890746     </STDV_OBS>
+ <EXP>
+ <ID>       26218 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>   6.58508167E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.228095368     </BIAS>
+ <RMSE>  0.274144620     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26218 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.317805380     </BIAS>
+ <RMSE>  0.202446043     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.73933353E-02 </MEAN_OBS>
+ <STDV_OBS>  0.218756944     </STDV_OBS>
+ <EXP>
+ <ID>       26226 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>   5.89380451E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.144247606     </BIAS>
+ <RMSE>  0.760985494     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26226 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.148090094     </BIAS>
+ <RMSE>  0.743965328     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.14119591E-02 </MEAN_OBS>
+ <STDV_OBS>  0.188903332     </STDV_OBS>
+ <EXP>
+ <ID>       26227 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>   5.20214923E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.180949852     </BIAS>
+ <RMSE>  0.489706099     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26227 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.168383524     </BIAS>
+ <RMSE>  0.452609301     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.64778522E-02 </MEAN_OBS>
+ <STDV_OBS>  0.264406741     </STDV_OBS>
+ <EXP>
+ <ID>       26233 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>   9.79539379E-02 </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.209698021     </BIAS>
+ <RMSE>  0.678730309     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26233 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.200248659     </BIAS>
+ <RMSE>  0.693094134     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.21489191E-02 </MEAN_OBS>
+ <STDV_OBS>  0.280222178     </STDV_OBS>
+ <EXP>
+ <ID>       26249 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>  0.103249609     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.230785787     </BIAS>
+ <RMSE>  0.654294670     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26249 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.230637521     </BIAS>
+ <RMSE>  0.658130944     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.156504750     </MEAN_OBS>
+ <STDV_OBS>  0.377585262     </STDV_OBS>
+ <EXP>
+ <ID>       26038 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        1276 </NUM>
+ <MEAN>  0.147488251     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.352022767     </BIAS>
+ <RMSE>  0.570595741     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26038 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        1276 </NUM>
+ <MEAN>   1.40129846E-45 </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.344096154     </BIAS>
+ <RMSE>  0.573325455     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.119938061     </MEAN_OBS>
+ <STDV_OBS>  0.436144888     </STDV_OBS>
+ <EXP>
+ <ID>       26045 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>  0.183528036     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.291724235     </BIAS>
+ <RMSE>  0.775421202     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26045 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.278600872     </BIAS>
+ <RMSE>  0.788056076     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.138789758     </MEAN_OBS>
+ <STDV_OBS>  0.561342478     </STDV_OBS>
+ <EXP>
+ <ID>       26046 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>  0.222673342     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.305992723     </BIAS>
+ <RMSE>  0.834350109     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26046 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        1289 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.309896976     </BIAS>
+ <RMSE>  0.835029006     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.135633603     </MEAN_OBS>
+ <STDV_OBS>  0.300077170     </STDV_OBS>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3449 </NUM>
+ <MEAN>  0.145040944     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.246629581     </BIAS>
+ <RMSE>  0.722059131     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3449 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.252681196     </BIAS>
+ <RMSE>  0.707204401     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.14158416E-02 </MEAN_OBS>
+ <STDV_OBS>  0.310559422     </STDV_OBS>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>aws3dvarspec</NAME>
+ <NUM>        3383 </NUM>
+ <MEAN>  0.165636748     </MEAN>
+ <STDV>  -1.50383823E-03 </STDV>
+ <BIAS>  0.244044378     </BIAS>
+ <RMSE>  0.603278041     </RMSE>
+ <CORR>  -1.50297023E-03 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>aws3dvarlamb</NAME>
+ <NUM>        3383 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.250129610     </BIAS>
+ <RMSE>  0.594714403     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+</STAT>
